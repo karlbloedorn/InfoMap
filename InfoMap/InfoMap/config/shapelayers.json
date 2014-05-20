@@ -1,0 +1,29 @@
+﻿[
+    {
+        "file":  "testdata/TM_WORLD_BORDERS-0.3.shp",
+        "r" :  0.2,
+        "g" :  0.2,
+        "b" :  0.2,
+        "category" :  "World",
+        "description":  "Countries",
+        "enabled" :  true
+    },
+    {
+        "file":  "testdata/s_01ap14.shp",
+        "r" :  1.0,
+        "g" :  1.0,
+        "b" :  1.0,
+        "category" :  "US",
+        "description":  "States",
+        "enabled" :  true
+    },
+    {
+        "file":  "testdata/in101503.shp",
+        "r" :  0.1,
+        "g" :  0.1,
+        "b" :  0.1,
+        "category" :  "US",
+        "description":  "Interstates",
+        "enabled" :  true
+    }
+]
